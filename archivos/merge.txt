@@ -1,3 +1,7 @@
 Santiago Arboleda Acevedo
 23
 Aprender bien los conceptos de POO y su aplicacion
+Despues de crear el archivo "respuesta.txt" ya se ven los cambios en Git porque la carpeta "archivos" no esta vacia
+
+Es importante porque se pueden hacer cambios que no funcionen entre si y modificar las mismas lineas que la otra persona
+
