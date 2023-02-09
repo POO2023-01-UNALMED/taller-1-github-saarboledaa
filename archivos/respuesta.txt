@@ -1,0 +1,1 @@
+En git no se muestran cambios al crear una carpeta vacia
