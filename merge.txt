@@ -1,1 +1,0 @@
-Despues de crear el archivo "respuesta.txt" ya se ven los cambios en Git porque la carpeta "archivos" no esta vacia
